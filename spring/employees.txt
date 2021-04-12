@@ -1,0 +1,49 @@
+{
+    "email":"john@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png",
+    "jobTitle":"JavaScript Developer",
+    "name":"John Smith",
+    "phone":"733723727"
+}
+{
+    "email":"jack@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar2.png",
+    "jobTitle":"Python Developer",
+    "name":"Jack Black",
+    "phone":"578894338"
+}
+{
+    "email":"jennifer@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar3.png",
+    "jobTitle":"UX/UI Designer",
+    "name":"Jennifer Carrol",
+    "phone":"938203927"
+}
+{
+    "email":"greg123@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar4.png",
+    "jobTitle":"Python Developer",
+    "name":"Gregory Pottes",
+    "phone":"927384723"
+}
+{
+    "email":"billy@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar5.png",
+    "jobTitle":"Database Administrator",
+    "name":"Bill Wallace",
+    "phone":"263812327"
+}
+{
+    "email":"flicky@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar6.png",
+    "jobTitle":"Project Manager",
+    "name":"Fred Licky",
+    "phone":"637293827"
+}
+{
+    "email":"drack@email.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar7.png",
+    "jobTitle":"JavaScript Developer",
+    "name":"Dennis Rack",
+    "phone":"383628291"
+}
